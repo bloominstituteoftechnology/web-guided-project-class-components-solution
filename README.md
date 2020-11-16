@@ -1,10 +1,15 @@
-# Sprint 1 - Class Components Lesson Plan
+# Lesson Plan - Class Components
 
-## [Training Kit](https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2001%20-%20Advanced%20React/Module%201%20-%20Class%20Components)
+## Instructor Resources
+* 🐙 [Training Kit](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
+* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-class-components)
+* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-class-components-solution)
+* 🐙 [Module Project](https://github.com/LambdaSchool/React-Todo)
+* 🐙 [Module Project Solution](https://github.com/lambdaround2/React-Todo)
 
 ----
 
-## Objectives
+## Class Objectives
 
 By the end of this module, learners should be able to:
 * Explain class components, and use a class component to render some state data to the DOM
@@ -13,35 +18,23 @@ By the end of this module, learners should be able to:
 
 ----
 
-## Instructor Resources
-* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-class-components)
-* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-class-components-solution)
-* 🐙 [Module Project](https://github.com/LambdaSchool/React-Todo)
-* 🐙 [Module Project Solution](https://github.com/lambdaround2/React-Todo)
-
-----
-
 ## Guided Project Slack Message
 > 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-class-components
 > 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
-
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
-
 > :point_right: If you fall behind during lecture and wish to catch up:
-
 > git fetch && git reset --hard origin/lecture
-
 > :point_right: Slido event: *insert slido link*
 
 ----
 
 ## Guided Project Zoom Invitation:
-Unit 3 Week 3: Deploying Web Apps
-_______________________________________________________
-Zoom Link : *insert zoom link*
-Slido: *insert slido link*
-Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
-Class Project: https://github.com/LambdaSchool/React-Todo
+> Unit 3 Week 3: Deploying Web Apps
+> _______________________________________________________
+> Zoom Link : *insert zoom link*
+> Slido: *insert slido link*
+> Guided Project: https://github.com/LambdaSchool/> web-guided-project-class-components
+> Module Project: https://github.com/LambdaSchool/React-Todo
 
 ----
 
@@ -50,19 +43,22 @@ Class Project: https://github.com/LambdaSchool/React-Todo
 These are the questions used internally to check student understanding. Students will be instructed to answer these questions after the guided project. Please make sure to emphasize the concepts behind these answers.
 
 * How would you update a state property called "doggos" in a class component with the value doggoData?
-setDoggos(doggoData) | setDoggos.doggoData() | *this.setState({ doggos: doggoData })* | this.setState({ doggoData: doggos })
+
+setDoggos(doggoData) | setDoggos.doggoData() | **this.setState({ doggos: doggoData })** | this.setState({ doggoData: doggos })
 
 * How would you refer to a state property called "pokemon" in the class component?
-pokemon | this.pokemon | *this.state.pokemon* | state.pokemon
+
+pokemon | this.pokemon | **this.state.pokemon** | state.pokemon
 
 * How do you reference props in a class component?
-state.props | props | *this.state.props* | this.props
+
+state.props | props | **this.state.props** | this.props
 
 * How would you update a state property called "username" that is controlling a text input?
-None of the Above | this.setState({value: e.target.username}) | setUsername(e.target.value) | *this.setState({username: e.target.value})*
+
+None of the Above | this.setState({value: e.target.username}) | setUsername(e.target.value) | **this.setState({username: e.target.value})**
 
 ## Guided Project Outline
-
 1. Open the app and look around. Hardcoded data is being passed to `GroceryList`. We want it on state so we can update it and let our app react to those updates.
 2. Build state into `App.js`. Talk about what each piece does while you add it:
   - Constructor
@@ -134,24 +130,25 @@ Stretch Tasks:
 5. If you have time, go through the filter functionality
 
 ## Breakout Message
-
-If you are pushing students to breakout rooms, include details about the `You Do` portion of the project here.
-
-Again, this is a great place to draft a slack message with detailed instructions for students who need it.
+None Included
 
 ----
 
 ## After Class Message
-Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! Here is a review of today's material.
-
-Key Terminology
-* 📝 *word* - description
-* 📝 *word* - description
-
-Additional Resources
-* 📝 [Helpful Article](www.medium.com)
-* 🎥 [Helpful Video](www.youtube.com)
-
-Module Project
-[Class Component Todo Application](https://github.com/lambdaround2/React-Todo)
+> Hope you all enjoyed today's guided Lesson!
+> A reminder if that office hours are from 3:30 - 4:30 > Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! Here is a review of today's material.
+> 
+> ### Key Terminology
+> * 📝 *word* - description
+> * 📝 *word* - description
+> 
+> ### Additional Resources
+> * 📝 [Helpful Article](www.medium.com)
+> * 🎥 [Helpful Video](www.youtube.com)
+> 
+> ### Module Project
+> [Class Component Todo Application](https://github.com/> lambdaround2/React-Todo)
+>
+> ### [Lecture Recording](http://www.youtube.com)
+>
+> ### [Lecture Slides](http://www.youtube.com)
