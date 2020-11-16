@@ -135,8 +135,7 @@ None Included
 ----
 
 ## After Class Message
-> Hope you all enjoyed today's guided Lesson!
-> A reminder if that office hours are from 3:30 - 4:30 > Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! Here is a review of today's material.
+> Hope you all enjoyed today's guided Lesson! Here is a review of today's material.
 > 
 > ### Key Terminology
 > * 📝 *word* - description
@@ -152,3 +151,5 @@ None Included
 > ### [Lecture Recording](http://www.youtube.com)
 >
 > ### [Lecture Slides](http://www.youtube.com)
+>
+> reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! Good luck on your module projects and don't hesistate to **use the help channel for pressing bugs.** Good luck!!!
