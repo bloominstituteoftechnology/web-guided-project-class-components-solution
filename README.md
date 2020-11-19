@@ -135,21 +135,25 @@ None Included
 ----
 
 ## After Class Message
-> Hope you all enjoyed today's guided Lesson! Here is a review of today's material.
-> 
-> ### Key Terminology
-> * 📝 *word* - description
-> * 📝 *word* - description
-> 
-> ### Additional Resources
-> * 📝 [Helpful Article](www.medium.com)
-> * 🎥 [Helpful Video](www.youtube.com)
-> 
-> ### Module Project
-> [Class Component Todo Application](https://github.com/> lambdaround2/React-Todo)
->
-> ### [Lecture Recording](http://www.youtube.com)
->
-> ### [Lecture Slides](http://www.youtube.com)
->
-> reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! Good luck on your module projects and don't hesistate to **use the help channel for pressing bugs.** Good luck!!!
+Hope you all enjoyed today's guided Lesson!
+A reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! Here is a review of today's material.
+
+Key Terminology
+* 📝 *class component* - [A type of component that takes the form of a class extended from React.Component class.]()
+* 📝 *React.Component class* - [A react class that gives allows for the creation of class components and all their special features.]()
+* 📝 *class constructor* - [A class method that is called when an instance is first created of from a class.]()
+* 📝 *the render function* - [A pre-defined function that allows for a class component to render DOM objects.]()
+* 📝 *the this property* - [A reference to the current instance of a class. In class components, the place where props, state and internally defined event methods are accessed.]()
+* 📝 *filter* - [An array method that take a predicate function as an argument returns every item that where that function return true.]()
+
+Key Concepts
+* 📝 *The History of React Components* : [React components have changed alot through the years.]()
+* 📝 *Prop Drilling* - [The process of taking a value and passing it into a nested component for use downstream.]()
+* 📝 *Passing State through Data Prop Drilling* - [The process of sharing `application` state to subcomponents using prop drilling.]()
+* 📝 *Updating State through Functional Prop Drilling* - [The process of sharing `application` state to subcomponents using prop drilling.]()
+* 📝 *Application State Vs Component State* - [Application state indicates the state shared by a number of components. Component State indicates state local only to a components internal parts.]()
+* 📝 *Form Component Setup* - [The process of setting up (component) state, controlled inputs, onChange and onSubmit events to allow component form submission.]()
+
+Module Project
+[Class Component Todo Application](https://github.com/lambdaround2/React-Todo)
+[Class Component Todo Application Solution](https://github.com/lambdaround2/React-Todo)
