@@ -75,11 +75,7 @@ These are the questions used internally to check student understanding. Students
 ## Guided Project Outline
 
 ### Introduce Yourself
-* A good introduction to the Unit if students have not met you already
-
 ### Introduce the Module
-* Stress the building up of the previous unit's knowledge towards creating more complex applications.
-
 ### Introduce Sprint
 * Our focus over the week is professional usage of React components.
 * Explore advanced concepts on the different ways React Components work, scale and are tested for industry level projects.
