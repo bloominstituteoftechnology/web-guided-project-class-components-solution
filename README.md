@@ -48,21 +48,29 @@ By the end of this module, learners should be able to:
 
 These are the questions used internally to check student understanding. Students will be instructed to answer these questions after the guided project. Please make sure to emphasize the concepts behind these answers.
 
-* How would you update a state property called "doggos" in a class component with the value doggoData?
+#### How would you update a state property called "doggos" in a class component with the value doggoData?
+* setDoggos(doggoData)
+* setDoggos.doggoData()
+* **this.setState({ doggos: doggoData })**
+* this.setState({ doggoData: doggos })
 
-setDoggos(doggoData) | setDoggos.doggoData() | **this.setState({ doggos: doggoData })** | this.setState({ doggoData: doggos })
+#### How would you refer to a state property called "pokemon" in the class component?
+* pokemon
+* this.pokemon
+* **this.state.pokemon**
+* state.pokemon
 
-* How would you refer to a state property called "pokemon" in the class component?
+#### How do you reference props in a class component?
+* state.props
+* props
+* **this.state.props**
+* this.props
 
-pokemon | this.pokemon | **this.state.pokemon** | state.pokemon
-
-* How do you reference props in a class component?
-
-state.props | props | **this.state.props** | this.props
-
-* How would you update a state property called "username" that is controlling a text input?
-
-None of the Above | this.setState({value: e.target.username}) | setUsername(e.target.value) | **this.setState({username: e.target.value})**
+#### How would you update a state property called "username" that is controlling a text input?
+* None of the Above
+* this.setState({value: e.target.username})
+* setUsername(e.target.value)
+* **this.setState({username: e.target.value})**
 
 ## Guided Project Outline
 
