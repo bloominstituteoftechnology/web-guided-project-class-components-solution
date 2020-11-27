@@ -24,13 +24,12 @@ By the end of this module, learners should be able to:
 ## Guided Project Slack Message
 > 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-class-components
 > 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
-
+>
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
-
 > :point_right: If you fall behind during lecture and wish to catch up:
-
+>
 > git fetch && git reset --hard origin/lecture
-
+>
 > :point_right: Slido event: *insert slido link*
 
 ----
