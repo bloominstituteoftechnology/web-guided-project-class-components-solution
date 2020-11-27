@@ -92,7 +92,7 @@ These are the questions used internally to check student understanding. Students
 * Build with student participation a simple functional app in the model of AppFunc.js. Highlight each component feature as it is built.
 * Compare completed functional app to class component version within AppClass.js.
 
-#### 2. Explain why class components are nessisary dispite the ease of functional components.
+#### 2. Explain why class components are necessary dispite the ease of functional components.
 * Start discussion of why class components are nessisary to learn, highlighting:
  - React is an evolving platform in an evolved landscape of frontend developmendt
  - Functional components and useState are new React techologies.
