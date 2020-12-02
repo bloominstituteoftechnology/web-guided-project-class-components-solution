@@ -75,10 +75,19 @@ These are the questions used internally to check student understanding. Students
 ## Guided Project Outline
 
 ### Introduce Yourself
+
 ### Introduce the Module
+* Last module of frontend programming
+* We will build toward making full frontend apps that interact with apis
+* CRUD apps.
+
 ### Introduce Sprint
 * Our focus over the week is professional usage of React components.
 * Explore advanced concepts on the different ways React Components work, scale and are tested for industry level projects.
+* Help channel is avaliable
+* Office hours from 2:30 - 3:30 Lambda Time - Peer Programming Hour
+* Before hours and after hours support is being setup.
+* DO CHECK FOR UNDERSTANDINGS AND PULSE CHECKS
 
 ### Review Following Along
 #### 1. Review the mechanics of functional components.
@@ -100,6 +109,8 @@ These are the questions used internally to check student understanding. Students
  - Understanding class components leads to a better understanding the mechanics of React.
  - Programmers need to be backwards compatable.
 
+### BREAK
+
 #### 3. Build a simple class component from scratch.
 * Build a class component with the same functionality as the functional component.
 * Comment briefly on the use of prop drilling and the reactive nature of React using prop drilling.
@@ -112,13 +123,14 @@ These are the questions used internally to check student understanding. Students
  - constructor builds state
  - State is accessed through `this.state.`
  - Props is accessed through `this.props.`
- - Event Handler methods is accessed through `this.handlerName.`
+ - Class components can contain functional components.
+ - Event Handler methods is accessed through `this.handlerName.` and is created externally to the handler.
 
 ### BREAK
 
 ### Project Following Along
 #### 1. Tour a project that mixes functional and class components and that uses prop drilling.
-* Deminstrate completed followAlong project.
+* Demonstrate completed followAlong project.
   - Completed toggle of Items
   - Add Item
   - Clear Purchased
@@ -128,8 +140,10 @@ These are the questions used internally to check student understanding. Students
   - GroceryList
 
 #### 2. Review adding state to class components and highlight data prop drilling.
+* Note that toggling functionality is already inside through groceries
 * Add state to index.js
   - Lead discussion on why state would be ideal for holding groceries in this situation.
+  - Build constructor.
   - Build out state.
   - Note the way the state is passed to the Item components: `data prop drilling.`
 
@@ -162,9 +176,12 @@ These are the questions used internally to check student understanding. Students
  - Add in function in state holding component to correctly modify state.
  - Introduce filter and use to complete functionality.
 
-
 ### Module Project Review
 * [https://github.com/LambdaSchool/React-Todo](https://github.com/LambdaSchool/React-Todo)
+* Help channel is avaliable
+* Office hours from 2:30 - 3:30 Lambda Time - Peer Programming Hour
+* Before hours and after hours support is being setup.
+* DO CHECK FOR UNDERSTANDINGS AND PULSE CHECKS
 
 ## Breakout Slack Messages
 
@@ -184,11 +201,12 @@ You have 10mins to complete this task. Good luck!
 
 ## After Class Message
 Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! 
+A reminder if that office hours are from 2:30 - 3:30 Lambda Time.
+Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
 Module Project
 [Class Component Todo Application](https://github.com/lambdaround2/React-Todo)
-[Class Component Todo Application Solution](https://github.com/lambdaround2/React-Todo)
+[Class Slides](https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing)
 
 Here is a review of today's material.
 
