@@ -2,6 +2,7 @@
 
 ## [Training Kit](https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2001%20-%20Advanced%20React/Module%201%20-%20Class%20Components)
 
+### [Previous Lesson Plan](https://github.com/LambdaSchool/Web_ClassComponents_GuidedProject)
 ----
 
 ## Objectives
