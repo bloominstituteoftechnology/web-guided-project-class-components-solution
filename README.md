@@ -39,8 +39,11 @@ git fetch && git reset --hard origin/lecture
 Unit 3 | Sprint 1 | **Module 1: Class Components**
 _______________________________________________________
 Zoom Link : https://lambdaschool.zoom.us/j/3076367334
+
 Slido: https://app.sli.do/event/msea4w8q
+
 Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
+
 Class Project: https://github.com/LambdaSchool/React-Todo
 
 ----
