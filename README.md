@@ -221,6 +221,9 @@ Key Terminology
 * 📝 *the render function* - [A pre-defined function that allows for a class component to render DOM objects.](https://reactjs.org/docs/components-and-props.html)
 * 📝 *the this property* - [A reference to the current instance of a class. In class components, the place where props, state and internally defined event methods are accessed.](https://www.w3schools.com/js/js_this.asp)
 * 📝 *filter* - [An array method that take a predicate function as an argument returns every item that where that function return true.](https://www.w3schools.com/jsref/jsref_filter.asp)
+* 📝 *super* - [A built in function that give a child class access to a parent class' methods and properties.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+
+ :memo: super - A built in function that give a child class access to a parent class' methods and properties.
 
 Key Concepts
 * 📝 *The History of React Components* : [React components have changed alot through the years.](https://www.youtube.com/watch?v=Kzeog8yTFaE)
