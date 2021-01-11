@@ -36,12 +36,12 @@ By the end of this module, learners should be able to:
 ----
 
 ## Guided Project Zoom Invitation:
-> Unit 3 | Sprint 1 | **Module 1: Class Components**
-> _______________________________________________________
-> Zoom Link : *insert zoom link*
-> Slido: *insert slido link*
-> Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
-> Class Project: https://github.com/LambdaSchool/React-Todo
+Unit 3 | Sprint 1 | **Module 1: Class Components**
+_______________________________________________________
+Zoom Link : https://lambdaschool.zoom.us/j/3076367334
+Slido: https://app.sli.do/event/msea4w8q
+Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
+Class Project: https://github.com/LambdaSchool/React-Todo
 
 ----
 
