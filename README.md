@@ -214,7 +214,7 @@ Module Project
 
 Here is a review of today's material.
 
-Key Terminology
+**Key Terminology**
 * 📝 *class component* - [A type of component that takes the form of a class extended from React.Component class.](https://www.w3schools.com/react/react_components.asp)
 * 📝 *React.Component class* - [A react class that gives allows for the creation of class components and all their special features.](https://reactjs.org/docs/react-component.html)
 * 📝 *class constructor* - [A class method that is called when an instance is first created of from a class.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
@@ -223,9 +223,7 @@ Key Terminology
 * 📝 *filter* - [An array method that take a predicate function as an argument returns every item that where that function return true.](https://www.w3schools.com/jsref/jsref_filter.asp)
 * 📝 *super* - [A built in function that give a child class access to a parent class' methods and properties.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 
- :memo: super - A built in function that give a child class access to a parent class' methods and properties.
-
-Key Concepts
+**Key Concepts**
 * 📝 *The History of React Components* : [React components have changed alot through the years.](https://www.youtube.com/watch?v=Kzeog8yTFaE)
 * 📝 *Prop Drilling* - [The process of taking a value and passing it into a nested component for use downstream.](https://kentcdodds.com/blog/prop-drilling)
 * 📝 *Passing State through Data Prop Drilling* - [The process of sharing `application` state to subcomponents using prop drilling.](https://www.robinwieruch.de/react-pass-props-to-component#react-props-vs-state)
