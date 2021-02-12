@@ -42,8 +42,11 @@ git fetch && git reset --hard origin/lecture
 Unit # | Sprint # | **Module #: [Module Name]**
 _______________________________________________________
 > Zoom Link : [instructor zoom link]
+>
 > Slido: [class slido link]
+>
 > Guided Project: [student-facing GP link]
+>
 > Class Project: [student-facing module project link]
 
 ----
