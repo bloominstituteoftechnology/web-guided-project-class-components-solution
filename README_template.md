@@ -150,11 +150,10 @@ You have 10mins to complete this task. Good luck!
 **Hope you all enjoyed today's guided Lesson!**
 **A reminder if that office hours are from 2:30 - 3:30 Lambda Time.**
 **Don't forget to complete the days Check for Understanding and Pulse Checks!**
-
-[Module Project]() - [Link to the module project]
-[Module GP Video]() - [Link to the module video]
-[Module GP Slides]() - [Link to the GP slides if applicible]
-[Additional GP Video]() - [Link to the assostate instructors version of the same curiculum]
+- [Module Project]() - [Link to the module project]
+- [Module GP Video]() - [Link to the module video]
+- [Module GP Slides]() - [Link to the GP slides if applicible]
+- [Additional GP Video]() - [Link to the assostate instructors version of the same curiculum]
 
 Here is a review of today's material.
 
