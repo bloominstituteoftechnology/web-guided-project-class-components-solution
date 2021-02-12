@@ -81,20 +81,20 @@ These are the questions used internally to check student understanding. Students
 * [answer 3]
 
 ## Guided Project Outline
-*While this section is very much up to the style and descretion of the instructor and curiculum developer within a unit, it is worth considering if there are some consistent features to introducing a GP. For example, we could stipulate that the first module of the unit includes:
-- An introduction of the Instructor
-- An on-zoom introduction of the Associate Instructor, Student Success Coordinator and Support Hours Lead
-- A description of the time and purpose of unit resources.
-- A general overview of the unit purpose
+*While this section is very much up to the style and descretion of the instructor and curiculum developer within a unit, it is worth considering if there are some consistent features to introducing a GP. For example, we could stipulate that the first module of the unit includes:*
+- *An introduction of the Instructor*
+- *An on-zoom introduction of the Associate Instructor, Student Success Coordinator and Support Hours Lead*
+- *A description of the time and purpose of unit resources.*
+- *A general overview of the unit purpose*
 
-Other possible unit-standard GP outline topics could include:
-- A first module of a sprint description, goal or focus statement.
-- A standard signoff message reiterating daily student resources.
-- A signoff message on the last module of the sprint with standard sprint challenge communication.
-- A signoff message on the last module of the sprint unit discussing ties of current curriculum to the next unit.
-- Or perhaps an introduction to one of the next unit's instructor.
+*Other possible standard cross unit GP outline topics could include:*
+- *A first module of a sprint description, goal or focus statement.*
+- *A standard signoff message reiterating daily student resources.*
+- *A signoff message on the last module of the sprint with standard sprint challenge communication.*
+- *A signoff message on the last module of the sprint unit discussing ties of current curriculum to the next unit.*
+- *Or perhaps an introduction to one of the next unit's instructor.*
 
-The wording and style of deliver is not as important here as it is the consistence of where in the lecture the message is made and the general content of the message. TLDR: It's worth considering part of this section as a means to shape consistent student communication and consistent base student experience within a GP.*
+*The wording and style of deliver is not as important here as it is the consistence of where in the lecture the message is made and the general content of the message. TLDR: It's worth considering part of this section as a means to shape consistent student communication and consistent base student experience within a GP.*
 
 ### [Overall Topic]
 * [Instructor task / communication action]
