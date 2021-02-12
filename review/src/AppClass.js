@@ -1,18 +1,27 @@
 import React from "react";
 
+const Message = (props) => {
+  return(<div>
+    <p>
+      <p>In Message</p>
+      {props.name} is an unbelievable name. Stunning! Never change,{" "}
+      {props.name}.
+    </p>
+  </div>);
+}
+
+
 class Person extends React.Component {
   render() {
     return (
       <div>
         <h1>Hello {this.props.name}.</h1>
-        <p>
-          {this.props.name} is an unbelievable name. Stunning! Never change,{" "}
-          {this.props.name}.
-        </p>
+        <Message name={"Warren"}/>
       </div>
     );
   }
 } 
+
 
 class AppClass extends React.Component {
   constructor() {
