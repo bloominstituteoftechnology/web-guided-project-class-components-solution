@@ -52,7 +52,7 @@ _______________________________________________________
 ----
 
 ## Check for Understanding Questions
-***Adding CFUs here allows instructors to quickly scan important teaching highlights to maximize CFU performance***
+*Adding CFUs here allows instructors to quickly scan important teaching highlights to maximize CFU performance.*
 
 These are the questions used internally to check student understanding. Students will be instructed to answer these questions after the guided project. Please make sure to emphasize the concepts behind these answers.
 
