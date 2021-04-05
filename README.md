@@ -23,28 +23,31 @@ By the end of this module, learners should be able to:
 ----
 
 ## Guided Project Slack Message
-1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-class-components
-2. Navigate into both the review and followAlong folders and run npm i to load dependences.
-
-:point_right: Technical issues spinning up the project? Please head over to the help channel!
-:point_right: If you fall behind during lecture and wish to catch up:
-
-git fetch && git reset --hard origin/lecture
-
-:point_right: Slido event: https://app.sli.do/event/msea4w8q
+> **Welcome to Unit 3!**
+> **Below are your setup instructions for the day. Looking forward to working with you.**
+> 
+> 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-class-components
+> 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
+> :point_right: Technical issues spinning up the project? Please head over to the help channel!
+>
+> :point_right: If you fall behind during lecture and wish to catch up:
+>
+> `git fetch && git reset --hard origin/lecture`
+>
+> :point_right: Slido event: https://app.sli.do/event/msea4w8q
 
 ----
 
 ## Guided Project Zoom Invitation:
-Unit 3 | Sprint 1 | **Module 1: Class Components**
-_______________________________________________________
-Zoom Link : https://lambdaschool.zoom.us/j/3076367334
-
-Slido: https://app.sli.do/event/msea4w8q
-
-Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
-
-Class Project: https://github.com/LambdaSchool/React-Todo
+> **Unit 3 | Sprint 1 | Module 1: Class Components**
+> _______________________________________________________
+> Zoom Link : https://lambdaschool.zoom.us/j/3076367334
+> 
+> Slido: https://app.sli.do/event/msea4w8q
+>
+> Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
+>
+> Class Project: https://github.com/LambdaSchool/web-module-project-class-components
 
 ----
 
@@ -181,7 +184,7 @@ These are the questions used internally to check student understanding. Students
  - Introduce filter and use to complete functionality.
 
 ### Module Project Review
-* [https://github.com/LambdaSchool/React-Todo](https://github.com/LambdaSchool/React-Todo)
+* [https://github.com/LambdaSchool/web-module-project-class-components](https://github.com/LambdaSchool/web-module-project-class-components)
 * Help channel is avaliable
 * Office hours from 2:30 - 3:30 Lambda Time - Peer Programming Hour
 * Before hours and after hours support is being setup.
@@ -205,11 +208,11 @@ You have 10mins to complete this task. Good luck!
 
 ## After Class Message
 Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 2:30 - 3:30 Lambda Time.
+A reminder if that office hours are from 2:30 - 3:00 Lambda Time.
 Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
 Module Project
-[Class Component Todo Application](https://github.com/lambdaround2/React-Todo)
+[Class Module Project](https://github.com/LambdaSchool/web-module-project-class-components)
 [Class Slides](https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing)
 
 Here is a review of today's material.
