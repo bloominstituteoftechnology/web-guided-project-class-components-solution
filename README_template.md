@@ -15,26 +15,26 @@ By the end of this module, learners should be able to:
 ----
 
 ## Instructor Resources
-* 🐙 [Guided Project Starter]() - [a link to the student-facing GP repo]
-* 🐙 [Guided Project Solution]() - [a link current repo]
-* 🐙 [Guided Project Slides]() - [if an instructor includes slides in thier lecture, this is a good place to include them. These descision are up to the style and coordination of the unit instructor and unit curiculum developer]
-* 🐙 [Module Project]() - [a link to the student-facing module project repo]
-* 🐙 [Module Project Solution]() - [a link to the module project soluition repo]
+* 🐙 [Guided Project Starter]() - *a link to the student-facing GP repo*
+* 🐙 [Guided Project Solution]() - *a link current repo*
+* 🐙 [Guided Project Slides]() - *if an instructor includes slides in thier lecture, this is a good place to include them. These descision are up to the style and coordination of the unit instructor and unit curiculum developer*
+* 🐙 [Module Project]() - *a link to the student-facing module project repo*
+* 🐙 [Module Project Solution]() - *a link to the module project soluition repo*
 
 
 ----
 
 ## Guided Project Setup Slack Message
-1. Clone without forking the following repo: [link to the student-facing GP repo]
-2. [include any language need to the installization of GP code for example:
-    Navigate into both the review and followAlong folders and run npm i to load dependences.]
+1. Clone without forking the following repo: *link to the student-facing GP repo*
+2. *Include any language need to the installization of GP code for example:
+    Navigate into both the review and followAlong folders and run npm i to load dependences.*
 
 :point_right: Technical issues spinning up the project? Please head over to the help channel!
 :point_right: If you fall behind during lecture and wish to catch up:
 
 git fetch && git reset --hard origin/lecture
 
-:point_right: Slido event: [class slido link]
+:point_right: Slido event: *class slido link*
 
 ----
 
@@ -42,14 +42,17 @@ git fetch && git reset --hard origin/lecture
 Unit # | Sprint # | **Module #: [Module Name]**
 _______________________________________________________
 > Zoom Link : [instructor zoom link]
+>
 > Slido: [class slido link]
+>
 > Guided Project: [student-facing GP link]
+>
 > Class Project: [student-facing module project link]
 
 ----
 
 ## Check for Understanding Questions
-*Adding CFUs here allows instructors to quickly scan important teaching highlights to maximize CFU performance*
+*Adding CFUs here allows instructors to quickly scan important teaching highlights to maximize CFU performance.*
 
 These are the questions used internally to check student understanding. Students will be instructed to answer these questions after the guided project. Please make sure to emphasize the concepts behind these answers.
 
@@ -78,21 +81,20 @@ These are the questions used internally to check student understanding. Students
 * [answer 3]
 
 ## Guided Project Outline
-*While this section is very much up to the style and descretion of the instructor and curiculum developer within a unit, it is worth considering if there are some consistent features to introducing a GP. For example, we could stipulate that the first module of the unit includes:
-- An introduction of the Instructor
-- An on-zoom introduction of the Associate Instructor, Student Success Coordinator and Support Hours Lead
-- A description of the time and purpose of unit resources.
-- A general overview of the unit purpose
+*While this section is very much up to the style and descretion of the instructor and curiculum developer within a unit, it is worth considering if there are some consistent features to introducing a GP. For example, we could stipulate that the first module of the unit includes:*
+- *An introduction of the Instructor*
+- *An on-zoom introduction of the Associate Instructor, Student Success Coordinator and Support Hours Lead*
+- *A description of the time and purpose of unit resources.*
+- *A general overview of the unit purpose*
 
-Other possible unit-standard GP outline topics could include:
-- A first module of a sprint description, goal or focus statement.
-- A standard signoff message reiterating daily student resources.
-- A signoff message on the last module of the sprint with standard sprint challenge communication.
-- A signoff message on the last module of the sprint unit discussing ties of current curriculum to the next unit.
-- Or perhaps an introduction to one of the next unit's instructor.
+*Other possible standard cross unit GP outline topics could include:*
+- *A first module of a sprint description, goal or focus statement.*
+- *A standard signoff message reiterating daily student resources.*
+- *A signoff message on the last module of the sprint with standard sprint challenge communication.*
+- *A signoff message on the last module of the sprint unit discussing ties of current curriculum to the next unit.*
+- *Or perhaps an introduction to one of the next unit's instructor.*
 
-The wording and style of deliver is not as important here as it is the consistence of where in the lecture the message is made and the general content of the message. TLDR: It's worth considering part of this section as a means to shape consistent student communication and consistent base student experience within a GP.
-*
+*The wording and style of deliver is not as important here as it is the consistence of where in the lecture the message is made and the general content of the message. TLDR: It's worth considering part of this section as a means to shape consistent student communication and consistent base student experience within a GP.*
 
 ### [Overall Topic]
 * [Instructor task / communication action]
@@ -149,10 +151,11 @@ You have 10mins to complete this task. Good luck!
 **A reminder if that office hours are from 2:30 - 3:30 Lambda Time.**
 **Don't forget to complete the days Check for Understanding and Pulse Checks!**
 
-[Module Project]() - [Link to the module project]
-[Module GP Video]() - [Link to the module video]
-[Module GP Slides]() - [Link to the GP slides if applicible]
-[Additional GP Video]() - [Link to the assostate instructors version of the same curiculum]
+**Module Materials**
+- [Module Project]() - [Link to the module project]
+- [Module GP Video]() - [Link to the module video]
+- [Module GP Slides]() - [Link to the GP slides if applicible]
+- [Additional GP Video]() - [Link to the assostate instructors version of the same curiculum]
 
 Here is a review of today's material.
 
