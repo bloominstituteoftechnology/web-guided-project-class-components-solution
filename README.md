@@ -207,17 +207,19 @@ You have 10mins to complete this task. Good luck!
 ----
 
 ## After Class Message
-Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 2:30 - 3:00 Lambda Time.
-Don't forget to complete the days Check for Understanding and Pulse Checks! 
+**Hope you all enjoyed today's guided Lesson!**
+**A reminder if that office hours are from 2:30 - 3:00 Lambda Time.**
+**Don't forget to complete the days Check for Understanding and Pulse Checks!**
 
-Module Project
-[Class Module Project](https://github.com/LambdaSchool/web-module-project-class-components)
-[Class Slides](https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing)
+**Here is a review of today's material.**
 
-Here is a review of today's material.
+### Module Materials
+Class Module Project: https://github.com/LambdaSchool/web-module-project-class-components
+Class Slides: https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing
+Lecture Video: (processing)
+Alternative Lecture Video: [Dustin Myers](https://youtu.be/QCvc9-BklME) | [Josh Jacobson](https://youtu.be/L9KvL8f3Z1A) | [Warren C. Longmire](https://youtu.be/6UOlPRte5DM) | [Brian Kirkby](https://youtu.be/DrAOcO12NhI)
 
-**Key Terminology**
+### Key Terminology
 * 📝 *class component* - [A type of component that takes the form of a class extended from React.Component class.](https://www.w3schools.com/react/react_components.asp)
 * 📝 *React.Component class* - [A react class that gives allows for the creation of class components and all their special features.](https://reactjs.org/docs/react-component.html)
 * 📝 *class constructor* - [A class method that is called when an instance is first created of from a class.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
@@ -226,7 +228,7 @@ Here is a review of today's material.
 * 📝 *filter* - [An array method that take a predicate function as an argument returns every item that where that function return true.](https://www.w3schools.com/jsref/jsref_filter.asp)
 * 📝 *super* - [A built in function that give a child class access to a parent class' methods and properties.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 
-**Key Concepts**
+### Key Concepts
 * 📝 *The History of React Components* : [React components have changed alot through the years.](https://www.youtube.com/watch?v=Kzeog8yTFaE)
 * 📝 *Prop Drilling* - [The process of taking a value and passing it into a nested component for use downstream.](https://kentcdodds.com/blog/prop-drilling)
 * 📝 *Passing State through Data Prop Drilling* - [The process of sharing `application` state to subcomponents using prop drilling.](https://www.robinwieruch.de/react-pass-props-to-component#react-props-vs-state)
