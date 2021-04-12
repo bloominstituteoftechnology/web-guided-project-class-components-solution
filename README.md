@@ -214,10 +214,10 @@ You have 10mins to complete this task. Good luck!
 **Here is a review of today's material.**
 
 ### Module Materials
-Class Module Project: https://github.com/LambdaSchool/web-module-project-class-components
-Class Slides: https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing
-Lecture Video: (processing)
-Alternative Lecture Video: [Dustin Myers](https://youtu.be/QCvc9-BklME) | [Josh Jacobson](https://youtu.be/L9KvL8f3Z1A) | [Warren C. Longmire](https://youtu.be/6UOlPRte5DM) | [Brian Kirkby](https://youtu.be/DrAOcO12NhI)
+Module Project: https://github.com/LambdaSchool/web-module-project-class-components
+GP Slides: https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing
+GP Video: (processing)
+Alternative GP Video: [Dustin Myers](https://youtu.be/QCvc9-BklME) | [Josh Jacobson](https://youtu.be/L9KvL8f3Z1A) | [Warren C. Longmire](https://youtu.be/6UOlPRte5DM) | [Brian Kirkby](https://youtu.be/DrAOcO12NhI)
 
 ### Key Terminology
 * 📝 *class component* - [A type of component that takes the form of a class extended from React.Component class.](https://www.w3schools.com/react/react_components.asp)
