@@ -216,7 +216,6 @@ You have 10mins to complete this task. Good luck!
 ### Module Materials
 Module Project: https://github.com/LambdaSchool/web-module-project-class-components
 GP Slides: https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing
-GP Video: (processing)
 Alternative GP Video: [Dustin Myers](https://youtu.be/QCvc9-BklME) | [Josh Jacobson](https://youtu.be/L9KvL8f3Z1A) | [Warren C. Longmire](https://youtu.be/6UOlPRte5DM) | [Brian Kirkby](https://youtu.be/DrAOcO12NhI)
 
 ### Key Terminology
