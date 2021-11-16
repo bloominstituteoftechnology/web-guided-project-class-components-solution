@@ -1,8 +1,8 @@
 # Sprint 1 - Class Components Lesson Plan
 
-## [Training Kit](https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2001%20-%20Advanced%20React/Module%201%20-%20Class%20Components)
+## [Training Kit](https://github.com/BloomInstituteOfTechnology/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2001%20-%20Advanced%20React/Module%201%20-%20Class%20Components)
 
-### [Previous Lesson Plan](https://github.com/LambdaSchool/Web_ClassComponents_GuidedProject)
+### [Previous Lesson Plan](https://github.com/BloomInstituteOfTechnology/Web_ClassComponents_GuidedProject)
 ----
 
 ## Objectives
@@ -15,10 +15,10 @@ By the end of this module, learners should be able to:
 ----
 
 ## Instructor Resources
-* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-class-components)
-* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-class-components-solution)
-* 🐙 [Module Project](https://github.com/LambdaSchool/web-module-project-class-component)
-* 🐙 [Module Project Solution](https://github.com/LambdaSchool/web-module-project-class-component-solution)
+* 🐙 [Guided Project Starter](https://github.com/BloomInstituteOfTechnology/web-guided-project-class-components)
+* 🐙 [Guided Project Solution](https://github.com/BloomInstituteOfTechnology/web-guided-project-class-components-solution)
+* 🐙 [Module Project](https://github.com/BloomInstituteOfTechnology/web-module-project-class-component)
+* 🐙 [Module Project Solution](https://github.com/BloomInstituteOfTechnology/web-module-project-class-component-solution)
 
 ----
 
@@ -26,7 +26,7 @@ By the end of this module, learners should be able to:
 > **Welcome to Unit 3!**
 > **Below are your setup instructions for the day. Looking forward to working with you.**
 > 
-> 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-class-components
+> 1. Clone without forking the following repo: https://github.com/BloomInstituteOfTechnology/web-guided-project-class-components
 > 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
 >
@@ -45,9 +45,9 @@ By the end of this module, learners should be able to:
 > 
 > Slido: https://app.sli.do/event/msea4w8q
 >
-> Guided Project: https://github.com/LambdaSchool/web-guided-project-class-components
+> Guided Project: https://github.com/BloomInstituteOfTechnology/web-guided-project-class-components
 >
-> Class Project: https://github.com/LambdaSchool/web-module-project-class-components
+> Class Project: https://github.com/BloomInstituteOfTechnology/web-module-project-class-components
 
 ----
 
@@ -184,7 +184,7 @@ These are the questions used internally to check student understanding. Students
  - Introduce filter and use to complete functionality.
 
 ### Module Project Review
-* [https://github.com/LambdaSchool/web-module-project-class-components](https://github.com/LambdaSchool/web-module-project-class-components)
+* [https://github.com/BloomInstituteOfTechnology/web-module-project-class-components](https://github.com/BloomInstituteOfTechnology/web-module-project-class-components)
 * Help channel is avaliable
 * Office hours from 2:30 - 3:30 Lambda Time - Peer Programming Hour
 * Before hours and after hours support is being setup.
@@ -214,7 +214,7 @@ You have 10mins to complete this task. Good luck!
 **Here is a review of today's material.**
 
 ### Module Materials
-Module Project: https://github.com/LambdaSchool/web-module-project-class-components
+Module Project: https://github.com/BloomInstituteOfTechnology/web-module-project-class-components
 GP Slides: https://docs.google.com/presentation/d/1wPr1rd9aLPLoEh1k8fFJC1yghduKFqxemzQxQhGpanM/edit?usp=sharing
 Alternative GP Video: [Dustin Myers](https://youtu.be/QCvc9-BklME) | [Josh Jacobson](https://youtu.be/L9KvL8f3Z1A) | [Warren C. Longmire](https://youtu.be/6UOlPRte5DM) | [Brian Kirkby](https://youtu.be/DrAOcO12NhI)
 
